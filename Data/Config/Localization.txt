@@ -136,7 +136,7 @@ bridgeMetalRivetBlock,blocks,Block,KgNone,Bridge Metal Rivet Block,Bloc de pont 
 bridgeWoodBlock,blocks,Block,KgNone,Bridge Wood Block,Bloc de pont en bois,Brücke – Holzblock,,Puente Bloque de madera
 brownGrassDiagonal,blocks,Block,KgNone,Grass,Herbe,Gras,,Hierba
 burningBarrel,blocks,Block,KgNone,Burning Barrel,Baril en feu,Brennendes Fass,,Barril en llamas
-burningBarrelDesc,blocks,Block,KeyTrunk FrNone GrNone KgNone SpNone,The burning barrel is an essential prop in every post-apocalyptic setting.,,,,
+burningBarrelDesc,blocks,Block,KeyTrunk FrNone GrNone KgNone SpNone,"The burning barrel is an essential prop in every post-apocalyptic setting.",,"Das brennende Faß ist eine wesentliche Bestandteil in jeder Post-apokalyptischen Zeit.",,
 cabinetFiller2Block,blocks,Block,KgNone,Cabinet Filler2 Block,Bloc de remplissage 2 de meuble de rangement,Schrank 2 – Füllblock,,Bloque de relleno de gabinete 2
 cabinetFillerBlock,blocks,Block,KgNone,Cabinet Filler Block,Bloc de rembourrage de cabinet,Schrankfüllstoff – Block,,Bloque de relleno de vitrina
 cabinetOldFiller2Block,blocks,Block,KgNone,Cabinet Old Filler2 Block,Bloc de vieux rembourrage 2 de cabinet,Alter Schrankfüllstoff 2 – Block,,Bloque de relleno viejo de gabinete 2
@@ -1162,8 +1162,9 @@ cntNightstand,blocks,Container,KgNone,Night Stand,Table de chevet,Nachttisch,,Me
 cntOven,blocks,Container,KgNone,Oven,Four,Ofen,,Horno
 cntPillCase,blocks,Container,KgNone,Pill Case,Étui à médicaments,Pillendose,,Pastillero
 cntPurse01,blocks,Container,KgNone,Purse,Sac à main,Handtasche,,Bolso
+cntPurse01Desc,blocks,Container,KgNone,Purse,Sac à main,Schicke Handtasche von Giccu,,Bolso
 cntSecureStorageChest,blocks,Container,KgNone,Secure Storage Chest,Coffre de rangement sécurisé,Gesicherte Aufbewahrungstruhe,,Cofre de almacenamiento seguro
-cntSecureStorageChestDesc,blocks,Container,KgNone,Press & hold [activate] to lock it or set a combination.,Maintenez [activate] pour le verrouiller ou définir un code.,Zum Verschließen oder Kombination eingeben [activate] gedrückt halten.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación.
+cntSecureStorageChestDesc,blocks,Container,KgNone,Press & hold [activate] to lock it or set a combination.,Maintenez [activate] pour le verrouiller ou définir un code.,Zum Verschließen oder Kombination eingeben [Aktivieren] gedrückt halten.,,Mantén presionado [activate] para cerrar con llave o para definir una combinación.
 cntShoppingBasket,blocks,Container,KgNone,Shopping Basket,Panier à provisions,Einkaufskorb,,Cesto de compras
 cntShoppingCart,blocks,Container,KgNone,Shopping Cart,Charriot de courses,Einkaufswagen,,Carrito de compras
 cntSportsBag01,blocks,Container,KgNone,Rotting Sports Bag,Sac de sport en décomposition,Verrottende Sporttasche,,Bolsa deportiva podrida
@@ -2177,7 +2178,7 @@ ironFragmentDesc,items,Item,EnChanged KgNone,Raw iron should be smelted in a for
 leather,items,Item,KgNone,Leather,Cuir,Leder,,Cuero
 leatherDesc,items,Item,KgNone,Leather can be used to make a variety of things including clothing and crossbows once you've read the leather book.,"Après avoir lu « Le livre du cuir », le cuir peut servir à fabriquer un tas de choses, comme des vêtements et des arbalètes.","Mit Leder kann eine Reihe von Sachen hergestellt werden, darunter Kleidung und Armbrüste, sofern du das Lederbuch gelesen hast.",,"El cuero se puede usar para fabricar varios objetos, como ropa o ballestas, una vez que has leído el libro del Cuero."
 masonJar,items,Item,KgNone,Empty Mason Jar,Bocal de conserve vide,Leeres Einweckglas,,Mason Jar vacía
-mechanicalParts,items,Item,KeyTrunk FrNone GrNone KgNone SpNone,Mechanical Parts,,,,
+mechanicalParts,items,Item,KeyTrunk FrNone GrNone KgNone SpNone,Mechanical Parts,,Mechanische Teile,,
 mechanicalPartsDesc,items,Item,KeyTrunk FrNone GrNone KgNone SpNone,"Small parts like sprockets, nuts and bolts.",,,,
 militaryFiber,items,Item,KgNone,Military Fiber,Fibres militaires,Militärische Faser,,Fibra militar
 militaryFiberDesc,items,Item,KgNone,Military grade synthetic fibers are used to repair military armor. (ballistic armor to be accurate),"Les fibres synthétiques de qualité militaire servent à réparer les armures militaires. (Les armures balistiques, pour être précis.)","Militärische Synthetikfasern dienen dazu, Militärkleidung zu reparieren. (Ballistikpanzerung, um genau zu sein)",,"Las fibras militares sintéticas se usan para reparar armaduras militares. (armaduras balísticas, para ser más exactos)"
@@ -2238,7 +2239,7 @@ trophyDesc,items,Item,KgNone,Brass objects can be scrapped into scrap brass in y
 turd,items,Item,KgNone,A human turd,Une crotte d'humain,Menschliche Scheiße,,Una mierda humana
 turdDesc,items,Item,KgNone,A disgusting turd. Only pick up on the clean end. It can be thrown at your friends or to distract zombies.,Une crotte dégoutante. À ramasser par le bout propre. Vous pouvez la jeter sur vos amis ou vous en servir pour distraire des zombies.,Ekelhafte Scheiße. Heb sie nur am sauberen Ende auf. Du kannst sie auf deine Freunde werfen oder damit Zombies ablenken.,,"Una mierda asquerosa. Recógela por la parte limpia. Se la puedes lanzar a tus amigos, o a los zombis para distraerlos."
 wood,items,Item,KgNone,Wood,Bois,Holz,,Madera
-woodDesc,items,Item,KgNone,A piece of wood. Great for building tools and constructing wood frames for building.,Un morceau de bois. Idéal pour fabriquer des outils et construire des structures en bois pour les constructions.,"Ein Stück Holz. Ideal, um Werkzeuge und Holzrahmen für den Bau herzustellen.",,Un trozo de madera. Ideal para construir herramientas y estructuras de madera para edificios.
+woodDesc,items,Item,KgNone,"A piece of wood. Great for building tools and constructing wood frames for building.","Un morceau de bois. Idéal pour fabriquer des outils et construire des structures en bois pour les constructions.","Ein Stück Holz. Ideal, um Werkzeuge und Holzrahmen für den Bau herzustellen.",,"Un trozo de madera. Ideal para construir herramientas y estructuras de madera para edificios."
 yuccaFibers,items,Item,KgNone,Plant Fibers,Fibres végétales,Pflanzenfaser,,Fibra vegetal
 yuccaFibersDesc,items,Item,KgNone,Plant fibers are a common resource acquired from destroying grass & small plants. Can be used to craft many things including clothing.,"Les fibres végétales sont une ressource commune obtenue en détruisant de l'herbe et de petites plantes. Elles peuvent servir à fabriquer de nombreuses choses, y compris des vêtements.","Pflanzenfasern sind ein gewöhnlicher Rohstoff, der gesammelt werden kann, wenn Gras und kleinere Pflanzen zerstört werden. Sie haben viele Verwendungszwecke, darunter auch das Fertigen von Kleidung.",,"La fibra vegetal es un recurso común que se adquiere al destruir hierba y pequeñas plantas. Se puede usar para fabricar diversos objetos, como ropa."
 aloeCream,items,Medical,KgNone,Aloe Cream,Pommade d'aloe vera,Aloe-Creme,,Crema de aloe
@@ -4335,8 +4336,8 @@ gunChoke,items,Item Gun,,Shotgun Choke,,
 partsChokeDesc,items,Item Gun,,Attach this weapon choke to a shotgun to reduce spread and increase accuracy.,,
 gun44MagnumSilenced,items,Item Gun,,.44 Magnum (Silenced),,
 gun44MagnumSilencedDesc,items,Item Gun,,A silenced magnum. Uses 44 magnum ammo..,,
-gunScope,items,Item Gun,,High-Powered Scope,,
-partsScopeDesc,items,Item Gun,,A high-powered scope to attach to a sniper for increased magnification.,,
+gunScope,items,Item Gun,,High-Powered Scope,,Hochleistungs Zielfernrohr,,
+partsScopeDesc,items,Item Gun,,"A high-powered scope to attach to a sniper for increased magnification.",,"Mit sehr guter Vergrößerung",,
 gunBoomstick,items,Item Gun,,Boomstick,,
 gunBoomstickDesc,items,Item Gun,,You're all out of bubblegum.,,
 gunMP5Silenced,items,Item Gun,,SMG (Silenced),,
@@ -4353,16 +4354,16 @@ gunBoltRifleSilenced,items,Item Gun,,Bolt Rifle (Silenced),,
 gunBoltRifleSilencedDesc,items,Item Gun,,"This silenced, single-shot bolt rifle uses 762mm ammo and has a scope.",,
 gunAK47Silenced,items,Item Gun,,AK-47 Assault Rifle (Silenced),,
 gunAK47SilencedDesc,items,Item Gun,,This silenced assault rifle uses 762mm ammo.,,
-gunSniperRifleHPScope,items,Item Gun,,Sniper Rifle (High-Powered Scope),,
-gunSniperRifleHPScopeDesc,items,Item Gun,,This sniper rifle features a high-powered scope to allow for further magnification and uses 762mm ammo.,,
-gunSniperRifleHPScopeSilenced,items,Item Gun,,Sniper Rifle (High-Powered Scope/Silenced),,
-gunSniperRifleHPScopeSilencedDesc,items,Item Gun,,This silenced sniper rifle features a high-powered scope to allow for further magnification and uses 762mm ammo.,,
+gunSniperRifleHPScope,items,Item Gun,,Sniper Rifle (High-Powered Scope),,"Hochleistungs Scharfschützengewehr",,
+gunSniperRifleHPScopeDesc,items,Item Gun,,"This sniper rifle features a high-powered scope to allow for further magnification and uses 7,62mm ammo.",,"Diese Hochleistungs Scharfschützengewehr hat eine erhöhte Reicheweite und verwendet 7,62mm Patronen.",,
+gunSniperRifleHPScopeSilenced,items,Item Gun,,"Sniper Rifle (High-Powered Scope/Silenced)",,"Hochleistungs Scharfschützengewehr (SD)",,
+gunSniperRifleHPScopeSilencedDesc,items,Item Gun,,"This silenced sniper rifle features a high-powered scope to allow for further magnification and uses 7,62mm ammo.",,"Diese Hochleistungs Scharfschützengewehr hat eine erhöhte Reicheweite, einen Schaldämpfer und verwendet 7,62mm Patronen."
 partsBoltRifle_parts,items,Item Gun,,Bolt Rifle Parts,,
 partsBoltRiflePartsDesc,items,Item Gun,,These parts are used to create a bolt-action rifle.,,
 ironCrossbow,items,Item Gun,,Iron Crossbow,,
 ironCrossbowDesc,items,Item Gun,,"This crossbow deals more damage, has further range and improved durability than a normal crossbow. Unlocks after leveling into Archery.",,
-ironBow,items,Item Gun,,Iron Bow,,
-ironBowDesc,items,Item Gun,,"This bow deals more damage, has further range and improved durability than a normal bow.",,
+ironBow,items,Item Gun,,Iron Bow,,Eisenbogen,,
+ironBowDesc,items,Item Gun,,"This bow deals more damage, has further range and improved durability than a normal bow.",,"Dieser Bogen macht mehr Schaden, hat eine höhere Reichweite und verbesserte Haltbarkeit als ein normaler Bogen."
 combatAxe,items,Item Tool,,Combat Axe,,
 combatAxeDesc,items,Item Tool,,This axe was designed to be used as a weapon more than a tool. Unlock by leveling Axes skill.,,
 HealingDart,items,Item Gun,,Healing Dart,,
@@ -4524,8 +4525,8 @@ coldredTea,items,Item Food,,Cold Red Tea,,
 coldcoffee,items,Item Food,,Iced Coffee,,
 colddrinkEnergy,items,Item Food,,Cold Energy Drink,,
 coldwaterPurified,items,Item Food,,Cold Purified Water,,
-flour,items,Item Food,,Flour,,
-flourDesc,items,Item Food,,"Flour is a key ingredient to making pies, biscuits and bread.",,
+flour,items,Item Food,,Flour,,Mehl,,
+flourDesc,items,Item Food,,"Flour is a key ingredient to making pies, biscuits and bread.",,"Mehl ist ein wichtiger Bestandteil zur Herstellung von Kuchen, Gebäck und Brot.",,
 
 dinnerPlate,items,Item Food,,Dinner Plate,,
 
@@ -4540,8 +4541,8 @@ waterPurified,items,Item Medical,,Purified Water,,
 waterPurifiedDesc,items,Item Medical,,Nice Refreshing purified water.,,
 medicalSplint,items,Item Medical,,Medical Splint,,
 medicalSplintDesc,items,Item Medical,,This splint is medically certified to send you down the path of recovery quicker than just using sticks and cloth.,,
-disinfectantBandage,items,Item Medical,,Disinfectant Bandage,,
-disinfectantBandageDesc,items,Item Medical,,This bandage has been soaked in peroxide to cure stage 1 infection when applied to bites or scratches.,,
+disinfectantBandage,items,Item Medical,,Disinfectant Bandage,,Desinfektions-Bandage,,
+disinfectantBandageDesc,items,Item Medical,,"This bandage has been soaked in peroxide to cure stage 1 infection when applied to bites or scratches.",,"Diese Bandage wurde in Peroxid getränkt, um die Infektionen von Bissen und Kratzer der Stufe 1 zu heilen."
 
 weedCleaver,items,Item Tool,,Weed Cleaver,,
 weedCleaverDesc,items,Item Tool,,"This tool excels at clearing up grass - but not much else. JaxTeller Brand",,
@@ -4551,10 +4552,11 @@ chemicalAgent,items,Item Gun,,Chemical Agent,,
 chemicalAgentDesc,items,Item Gun,,Mix this in a syringe to make a chemical dart.,,
 healingAgent,items,Item Gun,,Healing Agent,,
 healingAgentDesc,items,Item Gun,,Mix this in a syringe to make a healing dart or use it to heal yourself.,,
-SyringeDesc,items,Item Gun,,Craft darts either by extracting blood from corpses or by mixing in chemical or healing agents.,,
+Syringe,items,Item Gun,,Syringe,,Spritze,,
+SyringeDesc,items,Item Gun,,"Craft darts either by extracting blood from corpses or by mixing in chemical or healing agents.",,
 
-animalFeed,items,Item Food,,Animal Feed,,
-animalFeedDesc,items,Item Food,,Animal feed is used in crafting animal snares and chicken coops.,,
+animalFeed,items,Item Food,,Animal Feed,,Tierfutter,,
+animalFeedDesc,items,Item Food,,"Animal feed is used in crafting animal snares and chicken coops.",,"Hier gibts auch auf Tiernahrung 20%",,
 
 maniacPowder,items,Item Food,,Maniac Powder,,
 maniacPowderDesc,items,Item Food,,A dangerous drug that can temporarily make you a fearless killing machine.,,
@@ -4907,16 +4909,16 @@ bridgeDesc,blocks,Block Building,,"Use a Remote on this to toggle the bridge ope
 autoWallDesc,blocks,Block Building,,When placed on the ground these blocks will automatically grow up to a stack of 5 blocks high.,,
 autoFloorDesc,blocks,Block Building,,These blocks will automatically "pour" out in an area like water.,,
 BreweryDesc,blocks,Block Building,,This workstation is used to make alcoholic brews.,,
-workstationArmory,blocks,Block Building,,Armory,,
-ArmoryDesc,blocks,Block Building,,This workstation is used to craft Armors.,,
+workstationArmory,blocks,Block Building,,Armory,,"Rüstungswerkbank",,
+ArmoryDesc,blocks,Block Building,,"This workstation is used to craft Armors.",,"Auf dieser Werkbank kann man Rüstungen Herstellen.",,
 dyeStation,blocks,Block Building,,Dye Station,,
 dyeStationDesc,blocks,Block Building,,This workstation is used for dying your armors.,,
 studyDesk,blocks,Block Building,,Study Desk,,
 studyDeskDesc,blocks,Block Building,,This workstation is used for turning your Survivor Notes into recipe books.,,
 oilRefiner,blocks,Block Building,,Oil Refiner,,
 oilRefinerDesc,blocks,Block Building,,This workstation is used for refining raw oil into weapon oil or gasoline.,,
-workstationDecor,blocks,Block Building,,Decorative Artisan Station,,
-workstationDecorDesc,blocks,Block Building,,This workstation is used for crafting decorative blocks such as couches or tables.,,
+workstationDecor,blocks,Block Building,,Decorative Artisan Station,,Dekorwerkbank,,
+workstationDecorDesc,blocks,Block Building,,"This workstation is used for crafting decorative blocks such as couches or tables.",,"Lass deiner Creativität freien lauf und bau hier Dekorationen",,
 workstationCombine,blocks,Block Building,,Combine Station,,
 workstationCombineDesc,blocks,Block Building,,This workstation is only used to combine items and serves no other function. Requires level 2 in Quality Joe perk.,,
 
@@ -5266,8 +5268,8 @@ coldlokiWater,items,Item Food,,Cold Filtered Water,,
 moleSandwich,items,Item Food,,Mole Sandwich,,
 moleSandwichDesc,items,Item Food,,"You're not really considering eating this filth, are you?",,
 
-lokiBow,items,Item,,Loki Bow,,
-lokiBowDesc,items,Item,,More durable than your average wooden bow. Good for hunting and killing zombies. Uses arrows for ammunition. Hold reload to use alternate ammo.,,
+lokiBow,items,Item,,Loki Bow,,Loki Bogen,,
+lokiBowDesc,items,Item,,"More durable than your average wooden bow. Good for hunting and killing zombies. Uses arrows for ammunition. Hold reload to use alternate ammo.",,"Langlebiger als ein durchschnittliche Holzbogen. Gut für die Jagd und das Töten von Zombies. Verwendet Pfeile als Munition.",,
 
 
 
@@ -5287,19 +5289,19 @@ lokiShell,items,Item Gun,,Chemical Shell,,
 lokiShellDesc,items,Item Gun,,These shells have been filled with a chemical agent that melts through flesh on contact.,,
 
 
-carpenterKit,items,Item,,Carpenter Kit,,
-carpenterKitDesc,items,Item,,"A carpenter kit is used to upgrade or reinforce wood blocks. Can only be crafted if you have a high enough level in carpentry.",,
+carpenterKit,items,Item,,Carpenter Kit,,Zimmermann Set,,
+carpenterKitDesc,items,Item,,"A carpenter kit is used to upgrade or reinforce wood blocks. Can only be crafted if you have a high enough level in carpentry.",,"Ein Schreiner-Kit wird verwendet, um Holzblöcke zu reparieren oder zu verstärken. Kann nur in Handarbeit gemacht werden, wenn der Skill hoch genug ist."
 
 crudeNail,items,Item,,Crude Nail,,
 crudeNailDesc,items,Item,,"Crude Nails can be used in the place of traditional nails in crafting carpenter kits which are used for upgrading wooden blocks.",,
 
 
-plumbingKit,items,Item,,Plumbing Kit,,
-plumbingKitDesc,items,Item,,This kit when used with with a wrench can upgrade broken sinks into working variants for a fresh source of water if you left-click them with an empty jar or bowl.,,
+plumbingKit,items,Item,,Plumbing Kit,,Klempner Kit,,
+plumbingKitDesc,items,Item,,"This kit when used with with a wrench can upgrade broken sinks into working variants for a fresh source of water if you left-click them with an empty jar or bowl.",,"Mit diesem Kit und einem Schraubenschlüssel, kann kaputte Spülen in eine funktionstüchtige Variante aufrüsten, um eine Frischwasserquelle zu erstellen, in dem man ein leeres Glas oder einer Schüssel auffüllt."
 
 
-ovenKit,items,Item,,Oven Repair Kit,,
-ovenKitDesc,items,Item,,This kit can used to upgrade broken ovens into new working variants with a wrench.,,
+ovenKit,items,Item,,Oven Repair Kit,,Ofen Reparatur Kit
+ovenKitDesc,items,Item,,"This kit can used to upgrade broken ovens into new working variants with a wrench.",,"Mit diesem Kit und einem Schraubenschlüssel, kann man kaputte Öfen in eine funktionstüchtige Variante aufrüsten.",,
 
 cntPurse01Desc,blocks,Loot Container,,"While it offers little in terms of inventory space this is simple container to craft if you need someplace quickly to store items.",,
 
@@ -5440,7 +5442,7 @@ workstationChemistryDesc,blocks,Block Building,,"This workstation can be used to
 tunaSandwich,items,Item Food,,Tunafish Sandwich,,
 fishPie,items,Item Food,,Fish Pie,,
 
-woodFrameVMODesc,blocks,Block,,"Used for bases. Upgrade with carpenter kits & repaired with wood with a construction tool. Upgrade more with scrap iron, concrete mix & forged steel.",,
+woodFrameVMODesc,blocks,Block,,"Used for bases. Upgrade with carpenter kits & repaired with wood with a construction tool. Upgrade more with scrap iron, concrete mix & forged steel.",,"Verwendet für Basen. Aufwerten mit Zimmermann-Set & reparieren mit Holz und einem Bauwerkzeug. Aufwertbar mit Schrott, Betonmischung & Schmiedestahl.",,
 
 genericAmmoBox,items,Item Gun,,Ammo Supply Box,,
 genericAmmoBoxDesc,items,Item Gun,,This box of munition can be used to get ammunition for your weapons,,
@@ -5598,14 +5600,14 @@ ZombieRegen,entityclasses,Entity,,Radiated Regenerator,,
 
 coldDrinkDesc,items,Food,KgNone,This drink has been chilled. Left-Click on a fridge or cooler to make it warmer.,,
 
-scrapIronShiv,items,Item Melee,,Scrap Iron Shiv,,
-scrapIronShivDesc,items,Item Melee,,"This crude shiv was craft from a random piece of scrap iron with its handle wrapped in duct tape. Hope you've had your tetanus shots...",,
-scrapIronShovel,items,Item Melee,,Scrap Iron Shovel,,
-scrapIronShovelDesc,items,Item Melee,,"This crude shovel was made by attaching some random scrap metal to the end of a smoothed wooden stick. It gets t he job done, but it degrades twice as fast.",,
-scrapIronPickaxe,items,Item Melee,,Scrap Iron Pickaxe,,
-scrapIronPickaxeDesc,items,Item Melee,,"This crude pickaxe was crafted with various scrap metal and wood. Serves its purpose but degrades twice as fast.",,
-scrapIronAxe,items,Item Melee,,Scrap Iron Axe,,
-scrapIronAxeDesc,items,Item Melee,,"This crude axe was crafted with scrap and wood. Its not as durable as stone but makes up for it by being a bit sharper.",,
+scrapIronShiv,items,Item Melee,,Scrap Iron Shiv,,Schrott Klinge,,
+scrapIronShivDesc,items,Item Melee,,"This crude shiv was craft from a random piece of scrap iron with its handle wrapped in duct tape. Hope you've had your tetanus shots...",,"Diese Klinge wurde aus einem stück Schrott und Klebeband als Griff gefertigt. Hoffe du bist der Tetanusschutz ist noch aktiv...",,
+scrapIronShovel,items,Item Melee,,Scrap Iron Shovel,,Schrott Schaufel,,
+scrapIronShovelDesc,items,Item Melee,,"This crude shovel was made by attaching some random scrap metal to the end of a smoothed wooden stick. It gets t he job done, but it degrades twice as fast.",,"Diese Schaufel wurde aus Schrott gefertigt und etwas effektiver als die Steinschaufel.",,
+scrapIronPickaxe,items,Item Melee,,Scrap Iron Pickaxe,,Schrott Spitzhacke,,
+scrapIronPickaxeDesc,items,Item Melee,,"This crude pickaxe was crafted with various scrap metal and wood. Serves its purpose but degrades twice as fast.",,"Diese Spitzhacke wurde aus Schrott gefertigt und etwas effektiver als die Steinschaufel.",,
+scrapIronAxe,items,Item Melee,,Scrap Iron Axe,,Schrott Axt,,
+scrapIronAxeDesc,items,Item Melee,,"This crude axe was crafted with scrap and wood. Its not as durable as stone but makes up for it by being a bit sharper.",,"Diese Axt wurde aus Schrott und Holz gefertigt. Sie ist nicht so haltbar wie die Steinaxt, aber sie ist etwas schärfer.",,
 
 ironRingsRivets,items,Item,KgNone,Iron Rings and Rivets,,,
 ironRingsRivetsDesc,items,Item,KgNone,"These rings and rivets are required for crafting iron armor. You can craft these in the forge if you have a high enough Blacksmithing.",,
@@ -5613,28 +5615,28 @@ steelRingsRivets,items,Item,KgNone,Steel Rings and Rivets,,,
 steelRingsRivetsDesc,items,Item,KgNone,"These rings and rivets are required for crafting steel armor. You can craft these in the forge if you have a high enough Blacksmithing.",,
 whetstoneDesc,items,Item,KgNone,"Used to repair weapons or tools that have sharp edges such as a hunting knife, axe or pickaxe.",,,
 
-canUnlabeled,items,Food,KgNone,Unlabeled Can,,,
-canUnlabeledDesc,items,Food,KgNone,"This can of food has long since lost its label, leaving the contents of the can a mystery. It could fill you up or it could make you sick. Are you hungry enough to chance it?",,,
+canUnlabeled,items,Food,KgNone,Unlabeled Can,,Unbekannte Dose,,
+canUnlabeledDesc,items,Food,KgNone,"This can of food has long since lost its label, leaving the contents of the can a mystery. It could fill you up or it could make you sick. Are you hungry enough to chance it?",,"Diese Nahrungsdose hat längst ihr Etikett verloren, so dass der Inhalt der Dose ein Geheimnis bleibt. Es könnte Sie satt, oder krank machen. Sind Sie hungrig genug, um es zu versuchen?",,
 
-toolHeadIronAxe,items,Item,KgNone,Tool Head: Iron Axe,,
-toolHeadSteelAxe,items,Item,KgNone,Tool Head: Steel Axe,,
-toolHeadAxesDesc,items,Item,KgNone,This tool head is used in crafting axes. Iron is unlocked with level 10 blacksmithing and steel is unlocked at level 80.,,
-toolHeadIronPickaxe,items,Item,KgNone,Tool Head: Iron Pickaxe,,
-toolHeadSteelPickaxe,items,Item,KgNone,Tool Head: Steel Pickaxe,,
-toolHeadPickaxesDesc,items,Item,KgNone,This tool head is used in crafting pickaxes. Iron is unlocked with level 10 blacksmithing and steel is unlocked at level 80.,,
-toolHeadIronShovel,items,Item,KgNone,Tool Head: Iron Shovel,,
-toolHeadSteelShovel,items,Item,KgNone,Tool Head: Steel Shovel,,
-toolHeadShovelDesc,items,Item,KgNone,This tool head is used in crafting shovels. Iron is unlocked with level 10 blacksmithing and steel is unlocked at level 80.,,
-toolHeadIronHoe,items,Item,KgNone,Tool Head: Iron Hoe,,
-toolHeadIronHoeDesc,items,Item,KgNone,This tool head is used in crafting an iron hoe. Unlocked with level 10 blacksmithing.,,
-toolHeadKnifeBlade,items,Item,KgNone,Tool Head: Blade,,
-toolHeadKnifeBladeDesc,items,Item,KgNone,This is an unsharpened blade for a knife. Unlocked with level 10 blacksmithing,,
-toolHeadBladeScythe,items,Item,KgNone,Tool Head: Scythe Blade,,
-toolHeadBladeScytheDesc,items,Item,KgNone,This is an unsharpened blade for a scythe. Unlocked with level 10 blacksmithing,,
-toolHeadSledgehammer,items,Item,KgNone,Tool Head: Sledgehammer,,
-toolHeadSledgehammerDesc,items,Item,KgNone,This is used to craft a sledgehammer. Unlocked with level 80 blacksmithing.,,
-toolHeadHammer,items,Item,KgNone,Tool Head: Hammer,,
-toolHeadHammerDesc,items,Item,KgNone,This is used to craft a claw hammer. Unlocked with level 10 blacksmithing,,
+toolHeadIronAxe,items,Item,KgNone,Tool Head: Iron Axe,,Werkzeugkopf: Eisenaxt,,
+toolHeadSteelAxe,items,Item,KgNone,Tool Head: Steel Axe,,Werkzeugkopf: Stahlaxt,,
+toolHeadAxesDesc,items,Item,KgNone,This tool head is used in crafting axes. Iron is unlocked with level 10 blacksmithing and steel is unlocked at level 80.,,Dieser Werkzeugkopf wird in Handwerksachsen verwendet. Eisen wird mit Level 10 Schmiedekunst entriegelt und Stahl wird auf Level 80 freigeschaltet.,,
+toolHeadIronPickaxe,items,Item,KgNone,Tool Head: Iron Pickaxe,,Werkzeugkopf: Eisenspitzhacke,,
+toolHeadSteelPickaxe,items,Item,KgNone,Tool Head: Steel Pickaxe,,Werkzeugkopf: Stahlspitzhacke,,
+toolHeadPickaxesDesc,items,Item,KgNone,This tool head is used in crafting pickaxes. Iron is unlocked with level 10 blacksmithing and steel is unlocked at level 80.,,Dieser Werkzeugkopf wird bei der Herstellung von Spitzhacken verwendet. Eisen wird mit Level 10 Schmiedekunst entriegelt und Stahl wird auf Level 80 freigeschaltet.,,
+toolHeadIronShovel,items,Item,KgNone,Tool Head: Iron Shovel,,Werkzeugkopf: Eisenschaufel,,
+toolHeadSteelShovel,items,Item,KgNone,Tool Head: Steel Shovel,,Werkzeugkopf: Stahlschaufel,,
+toolHeadShovelDesc,items,Item,KgNone,This tool head is used in crafting shovels. Iron is unlocked with level 10 blacksmithing and steel is unlocked at level 80.,,Dieser Werkzeugkopf wird bei der Herstellung von Schaufeln verwendet. Eisen wird mit Level 10 Schmiedekunst entriegelt und Stahl wird auf Level 80 freigeschaltet.,,
+toolHeadIronHoe,items,Item,KgNone,Tool Head: Iron Hoe,,Werkzeugkopf: Eisenhacke,,
+toolHeadIronHoeDesc,items,Item,KgNone,This tool head is used in crafting an iron hoe. Unlocked with level 10 blacksmithing.,,Dieser Werkzeugkopf wird beim Herstellen einer Eisenhacke verwendet. Freischaltung mit Stufe 10 Schmiedekunst.,,
+toolHeadKnifeBlade,items,Item,KgNone,Tool Head: Blade,,Werkzeugkopf: Klinge,,
+toolHeadKnifeBladeDesc,items,Item,KgNone,This is an unsharpened blade for a knife. Unlocked with level 10 blacksmithing,,Dies ist eine ungeschärfte Klinge für ein Messer. Freischaltung mit Stufe 10 Schmiedekunst,,
+toolHeadBladeScythe,items,Item,KgNone,Tool Head: Scythe Blade,,Werkzeugkopf: Sense,,
+toolHeadBladeScytheDesc,items,Item,KgNone,This is an unsharpened blade for a scythe. Unlocked with level 10 blacksmithing,,Dies ist eine ungeschärfte Klinge für eine Sense. Freischaltung mit Stufe 10 Schmiedekunst,,
+toolHeadSledgehammer,items,Item,KgNone,Tool Head: Sledgehammer,,Werkzeugkopf: Vorschlaghammer,,
+toolHeadSledgehammerDesc,items,Item,KgNone,This is used to craft a sledgehammer. Unlocked with level 80 blacksmithing.,,Dies ist ein Bauteil für einen Vorschlaghammer. Entriegelt mit Stufe 80 Schmiedekunst.,,
+toolHeadHammer,items,Item,KgNone,Tool Head: Hammer,,Werkzeugkopf: Hammer,,
+toolHeadHammerDesc,items,Item,KgNone,This is used to craft a claw hammer. Unlocked with level 10 blacksmithing,,Dies ist ein Bauteil für einen Klauenhammer. Freischaltung mit Stufe 10 Schmiedekunst,,
 
-mechanicalKit,items,Item,KgNone,Mechanical Kit,,,
-mechanicalKitDesc,items,Item,KgNone,"The mechanic kits are used to repair machanical items, motorized tools, vehicles and more.",,,,
+mechanicalKit,items,Item,KgNone,Mechanical Kit,,MechanikerKit,,
+mechanicalKitDesc,items,Item,KgNone,"The mechanic kits are used to repair machanical items, motorized tools, vehicles and more.",,"Mit diesem Mechaniker-Kit, kann man mechanische Gegenstände, motorisierte Werkzeuge, Fahrzeuge und vieles mehr reparieren.",,
